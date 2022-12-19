@@ -1,0 +1,22 @@
+Edge-Attribute
+from
+ID des Knoten Person oder Organisation
+to
+"ID des Knoten Organisation, in der die Person gearbeitet hat"
+relation 
+Art der Beziehung zwischen den Personen oder einer Person und einer Organisation
+1= Freundschaft
+2= Liebe
+3= Arbeitskollegen
+4= Gründer
+5= Mitglied
+Node-Attribute
+id
+ID aus der Edgelist
+name
+Vollständiger Name der Person/Bezeichnung
+type 
+1= Person
+2= Organisation
+sector
+"gesellschaftliches Teilsystem, welchem die Person oder Organisation zugeordnet werden kann (z.B Wirtschaft oder Religion)"
